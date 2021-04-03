@@ -54,14 +54,14 @@ button[type=reset] {
 
     cursor: pointer;
     position: relative;
-    left: 36px;
+    left: 12px;
     line-height: 100%;
     font-size: 22px;
     color: #606061;
 }
 .vert-line {
     position: relative;
-    left: 36px;
+    left: 10px;
     
     height: 60%;
     width: 1px;
@@ -69,20 +69,21 @@ button[type=reset] {
 }
 .voice-search {
     width: auto;
-    height: 15px;
+    height: 12px;
     background-color: transparent;
     border: none;
 
-    cursor: pointer;
     position: relative;
-    left: 40px;
-    bottom: 8px;
+    left: 10px;
+    bottom: 10px;
+
+    cursor: pointer;
 }
 button[type=submit] {
     cursor: pointer;
     position: relative;
     left: -2px;
-    top: 2px;
+    top: 0px;
     background-color: transparent;
     border: none;
     line-height: 100%;
